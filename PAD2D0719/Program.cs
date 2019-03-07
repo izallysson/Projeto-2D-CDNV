@@ -10,6 +10,7 @@ namespace PAD2D0719
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("peixe boy e lava gato");
         }
     }
 }
